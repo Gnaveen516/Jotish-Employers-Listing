@@ -149,7 +149,7 @@ jotish-react-app/
 
 ## Video Demonstration
 📹 **Screen Recording**: 
-![Watch Demo Video](https://drive.google.com/file/d/1oZ-WG4GwsmnHKgYht3wEj5L8kwnqdDlA/view)
+[Watch Demo Video](https://drive.google.com/file/d/1oZ-WG4GwsmnHKgYht3wEj5L8kwnqdDlA/view)
 
 The video demonstrates:
 - Login process
