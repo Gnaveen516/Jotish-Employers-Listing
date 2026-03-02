@@ -1,11 +1,5 @@
-# Jotish Frontend Developer Internship Assignment
+# API Listing Of Employers Of Jotish
 
-## Candidate Information
-- **Name**: [Your Name]
-- **Email**: [Your Email]
-- **Date**: [Submission Date]
-
-## Project Overview
 A fully functional ReactJS application with 6 pages including Login, List, Details, Photo Capture, Dashboard (with charts), and Map View.
 
 ## Technology Stack
@@ -155,7 +149,7 @@ jotish-react-app/
 
 ## Video Demonstration
 📹 **Screen Recording**: 
-![Screen Recording](https://drive.google.com/file/d/1oZ-WG4GwsmnHKgYht3wEj5L8kwnqdDlA/view?usp=sharing)
+![Watch Demo Video](https://drive.google.com/file/d/1oZ-WG4GwsmnHKgYht3wEj5L8kwnqdDlA/preview)
 
 The video demonstrates:
 - Login process
