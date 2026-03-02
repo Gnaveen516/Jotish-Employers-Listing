@@ -155,7 +155,7 @@ jotish-react-app/
 
 ## Video Demonstration
 📹 **Screen Recording**: 
-![Screen Recording](recordings/Screen-Recording.mp4)
+![Screen Recording](https://drive.google.com/file/d/1oZ-WG4GwsmnHKgYht3wEj5L8kwnqdDlA/view?usp=sharing)
 
 The video demonstrates:
 - Login process
